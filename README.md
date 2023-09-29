@@ -9,7 +9,7 @@ Atualmente sou estudante de Defesa Cibernetica e estou desenvolvendo minhas habi
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)]([https://git-scm.com/doc](https://www.python.org/doc/))
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC)](https://www.python.org/doc/)
 [![JS](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=Javascript&logoColor=FFFF00)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
 
 ### GitHub Stats
